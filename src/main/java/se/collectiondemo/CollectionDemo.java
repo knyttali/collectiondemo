@@ -2,6 +2,8 @@ package se.collectiondemo;
 
 import java.util.ArrayList;
 
+//HEJSAN AMANDA
+
 public class CollectionDemo {
     public void Run() {
         ArrayList<String> players = new ArrayList<>();
