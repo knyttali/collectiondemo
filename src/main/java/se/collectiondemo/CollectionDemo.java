@@ -39,8 +39,12 @@ public class CollectionDemo {
         String [] weekDays = {"m", "tis", "o", "tors", "f", "l", "s"};
 
         /*
-         * int [] talen = {1,2,3,4}; int largest = talen[0]; for (int tal : talen) { if
-         * (tal>largest){ largest = tal; } } System.out.println("största talet: " +
+         * int [] talen = {1,2,3,4}; 
+         * int largest = talen[0]; 
+         * for (int tal : talen) {
+         *  if (tal>largest){ 
+         * largest = tal; }
+         *  } System.out.println("största talet: " +
          * largest);
          */
         // String[] minabarn2 = {"amanda", "anna", "emeli"};
