@@ -24,8 +24,10 @@ public final class App {
         var lab4e = new Lab4e();
         lab4e.Run();
         var lab5e = new Lab5e();
-        lab5e.Run();*/
+        lab5e.Run();
         var lab6e = new Lab6e();
-        lab6e.Run();
+        lab6e.Run();*/
+        var lab7e = new Lab7e();
+        lab7e.Run();
     }
 }
